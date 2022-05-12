@@ -1,6 +1,6 @@
-# IntoTheVerse Marketplace
+# QuestForOasis Marketplace
 
-This is the place to shop your game assets using the DGN game token and later use these to equip the purchased heroes inside the dungeon loot game. You can obtain DGN token by swapping an equivalent amount of ROSE on the swap inside our Metaverse.
+This is the place to shop your game assets using the DGN game token and later use these to equip the purchased heroes inside the dungeon based QuestForOasis Game. You can obtain DGN (Game Native Token) token by swapping an equivalent amount of ROSE on the swap inside our Metaverse.
 
 # Basic Sample Hardhat Project
 
